@@ -1,7 +1,7 @@
 ## Yldrax
 
 - Student @TU Berln
-- Pyton, Julia, R
+- Python, Julia, R
 
 <!--
 **Yldrax/Yldrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
