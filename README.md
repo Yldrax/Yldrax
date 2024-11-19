@@ -1,6 +1,6 @@
 ## Yldrax
 
-- Student @TU Berln
+- Student @TU Berlin
 - Python, Julia, R
 
 <!--
